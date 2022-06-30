@@ -3,7 +3,7 @@ import lxml
 from bs4 import BeautifulSoup
 import smtplib
 
-url = "https://codeforces.com/profile/shrey1002"
+url = "https://codeforces.com/profile/*****"
 header = {
     "User-Agent": "********************",
     "Accept-Language":"*************"
