@@ -1,5 +1,5 @@
 # CELF
-A python project that keeps tabs on codeforces contest page and auto registers for upcoming contests along with a confirmation mail .It also monitor codeforces rating changes and relays an email notifications upon detecting updates.
+A python project that keeps tabs on codeforces contest page and auto registers for upcoming contests along with a confirmation mail .It also monitors codeforces rating changes and relays an email notifications upon detecting updates.
 
 you need to change the header as per your system and you must have python installed on your system;<br/>
 go to main.py and fill all your details in place of ______<br/>
