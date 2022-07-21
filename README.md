@@ -1,10 +1,10 @@
 # CELF
 A python project that keeps tabs on codeforces contest page and auto registers for upcoming contests along with a confirmation mail .It also monitors codeforces rating changes and relays an email notifications upon detecting updates.
 
-you need to change the header as per your system and you must have python installed on your system;<br/>
-go to main.py and fill all your details in place of ______<br/>
-go to http://myhttpheader.com/ to find your browser headers.<br/>
-open rating_tracker.py, go to line 8 -> header, copy paste your ```"User-Agent"``` and ```"Accept-Language"``` from the above website.<br/><br/>
+You must have python installed on your system and you need to change the header in rating_tracker.py as per your system as follows;<br/>
+Go to main.py and fill all your details in place of blanks.<br/>
+Go to http://myhttpheader.com/ to find your browser headers.<br/>
+Open rating_tracker.py, go to line 8 -> header, copy paste your ```"User-Agent"``` and ```"Accept-Language"``` from the above website.<br/><br/>
 ![image](https://user-images.githubusercontent.com/75138802/179690099-f013bbba-8349-4180-be80-eef2bd320de9.png)<br/>
 ![image](https://user-images.githubusercontent.com/75138802/179697908-85eac915-2ee5-42be-bfdd-b6ec6879a4b4.png)<br/>
 **--------------------------------------------Your rating tracker is up and ready to run.--------------------------------------------<br/><br/>**
